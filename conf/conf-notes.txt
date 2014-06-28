@@ -1,0 +1,8 @@
+Common targets are:
+    core-image-minimal
+    hisdk-minimal-image
+    hisdk-qtbase-image
+    hisdk-qt5-image
+    hisdk-gstreamer-image
+
+You can also run generated qemu images with a command like 'runqemu qemuarm'
